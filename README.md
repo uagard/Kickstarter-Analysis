@@ -17,7 +17,7 @@ The next evaluation that is needed to be done is on the outcomes based on the di
 During this project the main difficulty encounter was figuring out the proper way to write the countifs formulas. It took a few tries to figure out how to write the formulas in order to bring back the correct value within the parameters given.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- According to the data it looks like during the year the most successful campaigns were during the months of May and June. There really was not anything in particular that coorelated to when campaigns failed or were canceled.
+According to the data it looks like during the year the most successful campaigns were during the months of May and June. There really was not anything in particular that coorelated to when campaigns failed or were canceled.
 - What can you conclude about the Outcomes based on Goals?
 I would conclude that if you had a goal anywhere frm=om $4999 and below you would be successful in reaching your goal.
 - What are some limitations of this dataset?
