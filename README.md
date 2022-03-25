@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to discover trends
 # Kickstarting with Excel
 
 ## Overview of Project
-The overview of this project is to utilize certain analysis techniques in order to define if there are trends located within the data that was provided.
+-The overview of this project is to utilize certain analysis techniques in order to define if there are trends located within the data that was provided.
 ### Purpose
 A particular play is being observed, it was determined that it narrowly missed reaching its fundraising goal. This goal was set created was unfortunaley not reached in its short amount of time. Now, we wants to know how different campaigns compared to their launch dates and their funding goals. We are given a dataset in a file named Kickstarter. We are going to create data visualizations of the campaign outcomes based on their launch dates and their funding goals. 
 ## Analysis and Challenges
