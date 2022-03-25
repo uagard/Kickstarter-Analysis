@@ -19,7 +19,7 @@ During this project the main difficulty encounter was figuring out the proper wa
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 According to the data it looks like during the year the most successful campaigns were during the months of May and June. There really was not anything in particular that coorelated to when campaigns failed or were canceled.
 - What can you conclude about the Outcomes based on Goals?
-I would conclude that if you had a goal anywhere frm=om $4999 and below you would be successful in reaching your goal.
+I would conclude that if you had a goal anywhere from $4999 and below you would be successful in reaching your goal.
 - What are some limitations of this dataset?
 The amount of the goal
 - What are some other possible tables and/or graphs that we could create?
